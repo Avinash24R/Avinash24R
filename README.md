@@ -2,7 +2,7 @@
 - 👀 I’m interested in Meachine learning
 - 🌱 I’m currently learning pursuing my B.tech cse
 - 💞️ I’m looking to collaborate on Data science or meachine learning projects
-- 📫 How to reach me mail avinash24082005@gmail.com
+
 
 
 
