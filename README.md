@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/avinash-rout-data-scientist-at-work" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avinash-rout-58a26a28b" height="30" width="40" /></a>
+<a href="[www.linkedin.com/in/avinash-rout-data-scientist-at-work](https://www.linkedin.com/in/avinash-rout-data-scientist-at-work)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avinash-rout-58a26a28b" height="30" width="40" /></a>
 <a href="https://kaggle.com/avinashrout" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="avinash rout" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/avinash24082005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="avinash24082005" height="30" width="40" /></a>
 </p>
