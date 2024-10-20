@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avinash24r&label=Profile%20views&color=0e75b6&style=flat" alt="avinash24r" /> </p>
 
-- 🔭 I’m currently working on [Data science beginner Guide](https://github.com/Avinash24R/Data-science-Guide)
+- 🔭 I’m currently working on [python project for beginner](https://github.com/Avinash24R/Python-Projects)
 
 - 🌱 I’m currently learning **AI/ML**
 
