@@ -1,27 +1,39 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)]
-<h1 align="center">Hi 👋, I'm Avinash</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+
+<div align="center">
+  
+# Hi 👋, I'm Avinash
+
+</div>
+
+<div align="center">
+  <h3 align="center">A passionate Software Developer from India</h3>  
+</div>
+
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/shahriyor-sharifjonov/shahriyor-sharifjonov/master/coding-2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avinash24r&label=Profile%20views&color=0e75b6&style=flat" alt="avinash24r" /> </p>
+
+## **💻 About Me**
 
 - 🔭 I’m currently working on [python project for beginner](https://github.com/Avinash24R/Python-Projects)
 
 - 🌱 I’m currently learning **Software Devlopment**
 
-- 👯 I’m looking to collaborate on **Backend Devlopment**
+- 👯 I’m looking to collaborate on **Backend Devlopment,AI/ML ,Devops**
 
-- 🤝 I’m looking for help with **in my Backend related project**
+- 🤝 I’m looking for help with **Devops**
 
-- 💬 Ask me about **my life**
+- 💬 Ask me about **DSA,AI/ML,System Design**
 
 - 📫 How to reach me **avinash24082005@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+## **📱 Connect with me**
 <p align="left">
 <a href="https://www.linkedin.com/in/avinash-rout-data-scientist-at-work" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avinash-rout-data-scientist-at-work" height="30" width="40" /></a>
 <a href="https://kaggle.com/avinashrout" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="avinash rout" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/avinash24082005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="avinash24082005" height="30" width="40" /></a>
+<a href="https://instagram.com/_aviiii24_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
