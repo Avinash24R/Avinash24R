@@ -87,8 +87,9 @@
 ## **📊 Analytics & Statistics**
 <div align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avinash24r&show_icons=true&locale=en" alt="avinash24r" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avinash24r&show_icons=true&theme=transparent&locale=en" alt="avinash24r" /></p>
+<p><img src="https://streak-stats.demolab.com?user=Avinash24R&theme=transparent" alt="GitHub Streak" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Avinash24R&" alt="Avinash24R" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Avinash24R&theme=dark" alt="Avinash24R" /></p>
 
 </div>
