@@ -88,8 +88,16 @@
 <div align="center">
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avinash24r&show_icons=true&theme=transparent&locale=en" alt="avinash24r" /></p>
+
+<p>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avinash24R&layout=compact&theme=transparent&hide_border=true&hide=Jupyter%20Notebook&langs_count=6" 
+    alt="Top Languages" 
+    style="border: 2px solid white; border-radius: 10px; padding: 5px; background-color: #0d1117;"
+  />
+</p>
+
 <p><img src="https://streak-stats.demolab.com?user=Avinash24R&theme=transparent" alt="GitHub Streak" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Avinash24R&theme=dark" alt="Avinash24R" /></p>
 
 </div>
