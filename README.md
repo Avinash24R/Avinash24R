@@ -21,7 +21,7 @@
 
 - 🌱 I’m currently learning **Software Devlopment**
 
-- 👯 I’m looking to collaborate on **Backend Devlopment,AI/ML ,Devops**
+- 👯 I’m looking to collaborate on **Backend Devlopment,AI/ML and Devops**
 
 - 🤝 I’m looking for help with **Devops**
 
