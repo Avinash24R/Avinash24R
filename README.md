@@ -17,7 +17,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/shahriyor-sharifjonov/shahriyor-sharifjonov/master/coding-2.gif">
 
-- 🔭 I’m currently working on [Hospital Management System](https://github.com/raunak0400/Hospital-Management-System)
+- 🔭 I’m currently working on [Microgrid Monitoring System](https://github.com/SmartGridX/Smart_Microgrid_System)
 
 - 🌱 I’m currently learning **Software Devlopment**
 
