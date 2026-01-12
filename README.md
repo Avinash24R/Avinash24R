@@ -90,7 +90,7 @@
 ## **📊 Analytics & Statistics**
 <div align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avinash24r&show_icons=true&theme=transparent&show_icons=true&include_all_commits=true&count_private=true&locale=en" alt="avinash24r" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avinash24R&show_icons=true&theme=transparent&show_icons=true&include_all_commits=true&count_private=true&locale=en" alt="avinash24r" /></p>
 
 <p>
   <img 
