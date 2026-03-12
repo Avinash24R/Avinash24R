@@ -214,7 +214,7 @@ Apply classical and modern machine learning techniques to solve real-world predi
   <img src="https://github-readme-stats.vercel.app/api?username=Avinash24R&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&bg_color=00000000&hide_border=true" />
 </td>
 <td>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avinash24R&layout=compact&langs_count=6&theme=transparent&bg_color=00000000&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avinash24R&layout=compact&langs_count=6&theme=transparent&bg_color=00000000&hide_border=true&hide=jupyter%20notebook,html,css" />
 </td>
 </tr>
 </table>
