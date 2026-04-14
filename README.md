@@ -223,6 +223,10 @@ Apply classical and modern machine learning techniques to solve real-world predi
   <img src="https://streak-stats.demolab.com?user=Avinash24R&theme=transparent&hide_border=true&background=00000000" />
 </p>
 
+<p align="center">
+  <img src="https://api.boot.dev/v1/users/public/5556b520-4473-42ce-9025-b24afc33978b/thumbnail" >
+</p>
+
 ---
 
 <p align="center">
