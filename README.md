@@ -1,7 +1,5 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)]
 
-
-
 <h1 align="center">Hi 👋, I'm Avinash</h1>
 
 <p align="center">
@@ -20,11 +18,11 @@
 <tr>
 <td width="55%">
 
-- 🔭 Working on **Drawer Game**
-- 🌱 Learning **Software Development & System Design**
-- 👯 Open to **Backend, AI/ML, DevOps** collaboration
-- 🤝 Seeking guidance in **DevOps**
-- 💬 Ask me about **DSA, AI/ML, Backend Systems**
+- 🔭 Working on **DSA AI Tutor**
+- 🌱 Learning **Backend Engineering, AI Agents & System Design**
+- 👯 Open to **Backend, AI/ML & DevOps** collaboration
+- 🤝 Seeking opportunities to build **real-world software systems**
+- 💬 Ask me about **DSA, Backend Systems, AI Agents & ML**
 - 📫 Reach me: **avinash24082005@gmail.com**
 
 </td>
@@ -44,12 +42,15 @@
 <a href="https://linkedin.com/in/avinash-at-work/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="https://leetcode.com/avinash24082005" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
+
 <a href="https://instagram.com/_aviiii24_" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
+
 <a href="https://x.com/Avinash_Rou7" target="_blank">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
@@ -57,28 +58,28 @@
 
 ---
 
-## 🚀 Featured Projects (Project Cards)
+## 🚀 Featured Projects
+
 <table width="100%">
 
 <!-- ================= ROW 1 ================= -->
 <tr>
 <td width="100%" valign="top">
 
-### 🔷 OPTIBIDS  
+### 🔷 OPTIBIDS
 **AI-Driven RFP & Tender Management Platform**
 
 🧠 **What it solves**  
-Manual tender evaluation is slow, error-prone, and inefficient.
+Automates the evaluation and management of procurement tenders and vendor proposals.
 
-⚙️ **What it automates**
-- Tender publishing  
-- Vendor application submissions  
-- AI-based proposal analysis  
-- SKU-based pricing estimation  
-- Offer negotiation & acceptance tracking  
+⚙️ **Core Capabilities**
+- Tender publishing and vendor submissions
+- AI-based proposal analysis
+- SKU-based pricing estimation
+- Offer negotiation and acceptance tracking
 
 🏷️ **Domain:** AI · B2B · Procurement  
-🚀 **Focus:** Reduce weeks of work to minutes  
+🚀 **Focus:** Automating complex procurement workflows
 
 🔗 **Repository:**  
 https://github.com/BuildSphere-dev/OPTIBIDS
@@ -90,22 +91,28 @@ https://github.com/BuildSphere-dev/OPTIBIDS
 <tr>
 <td width="100%" valign="top">
 
-### 🔶 FixTrack  
-**Intelligent Maintenance Management System**
+### 🟣 DSA AI Tutor
+**AI-Powered Personalized DSA Learning Agent**
 
-🧠 **Inspired by ERP systems like Odoo**
+🧠 **What it solves**  
+Provides personalized DSA learning by tracking a student's progress, identifying weak topics, teaching concepts, and selecting appropriate problems.
 
 ⚙️ **Core Capabilities**
-- Equipment lifecycle tracking  
-- Maintenance team management  
-- Repair request workflows  
-- Transparent, auditable operations  
+- AI-based skill evaluation
+- Personalized roadmap and topic selection
+- AI-generated DSA lessons and summaries
+- Adaptive problem selection based on topic and difficulty
+- LangGraph stateful agent workflow
+- Human-in-the-loop problem solving
+- Codeforces submission verification
+- Persistent progress and learning history
+- PostgreSQL-backed student and problem data
 
-🏷️ **Domain:** ERP · Operations · Full-Stack  
-🚀 **Focus:** Structure, visibility, accountability  
+🏷️ **Domain:** AI Agents · Education · Backend  
+🚀 **Focus:** Stateful AI tutoring and personalized learning
 
 🔗 **Repository:**  
-https://github.com/BuildSphere-dev/FixTrack
+https://github.com/Avinash24R/DSA_AI
 
 </td>
 </tr>
@@ -114,20 +121,20 @@ https://github.com/BuildSphere-dev/FixTrack
 <tr>
 <td width="100%" valign="top">
 
-### 🟦 Python Projects  
-**Collection of Python Mini Projects (9 Projects)**
+### 🟦 Python Projects
+**Collection of Python Mini Projects**
 
 🧠 **Purpose**  
-Strengthen Python fundamentals through hands-on, problem-oriented mini projects.
+Strengthen Python fundamentals through hands-on, problem-oriented projects.
 
-⚙️ **What it includes**
-- Beginner to intermediate Python projects  
-- Practical problem-solving use cases  
-- Clear separation of logic per project  
-- Focus on core Python concepts  
+⚙️ **Includes**
+- Beginner to intermediate Python projects
+- Practical problem-solving use cases
+- Core Python programming concepts
+- Modular project structure
 
 🏷️ **Domain:** Python · Programming Fundamentals  
-🚀 **Focus:** Skill building through practice  
+🚀 **Focus:** Practical programming and problem solving
 
 🔗 **Repository:**  
 https://github.com/Avinash24R/Python-Projects
@@ -139,69 +146,108 @@ https://github.com/Avinash24R/Python-Projects
 <tr>
 <td width="100%" valign="top">
 
-### 🟪 Machine Learning Projects  
+### 🟪 Machine Learning Projects
 **Applied ML Models for Real-World Classification Tasks**
 
-🧠 **Objective**  
-Apply classical and modern machine learning techniques to solve real-world prediction and classification problems.
+⚙️ **Projects**
+- **Spam Detector** — Text classification
+- **Breast Cancer Detection** — Supervised classification
+- **Sentiment Analysis** — NLP-based sentiment classification
 
-⚙️ **Included Projects**
-- **Spam Detector** – Text classification model to detect spam messages  
-- **Breast Cancer Detection** – Supervised ML model for medical diagnosis  
-- **Sentiment Analysis** – NLP-based sentiment classification system  
+📌 **Key Concepts**
+- Data preprocessing
+- Feature engineering
+- Supervised learning
+- Model evaluation
+- NLP and text vectorization
 
-📌 **Key Concepts Used**
-- Feature engineering & preprocessing  
-- Supervised learning algorithms  
-- Model evaluation & accuracy optimization  
-- NLP techniques (tokenization, vectorization)
+🏷️ **Domain:** Machine Learning · NLP · Data Science
 
-🏷️ **Domain:** Machine Learning · Data Science · NLP  
-🚀 **Focus:** Practical ML implementation and evaluation  
-
-🔗 **Repositories:**  
-- https://github.com/Avinash24R/spam-detector  
-- https://github.com/Avinash24R/Breast_Cancer_ML  
-- https://github.com/Avinash24R/Sentiment-Analysis  
+🔗 **Repositories:**
+- https://github.com/Avinash24R/spam-detector
+- https://github.com/Avinash24R/Breast_Cancer_ML
+- https://github.com/Avinash24R/Sentiment-Analysis
 
 </td>
 </tr>
 
 </table>
 
+---
+
+## 🧠 Important Skills
+
+### Backend Engineering
+- REST API development
+- FastAPI
+- API architecture
+- Authentication & validation
+- PostgreSQL
+- Database schema design
+- SQL
+
+### AI & AI Agents
+- LangGraph
+- LangChain
+- LLM integration
+- Agentic workflows
+- State management
+- Human-in-the-loop agents
+- Prompt engineering
+- RAG
+- AI-based evaluation
+
+### System Design
+- Modular architecture
+- Stateful vs stateless systems
+- Service separation
+- Database-backed state
+- External API integration
+- Asynchronous workflows
+- Fault handling and fallbacks
+
+### DevOps
+- Docker
+- Docker Compose
+- Linux
+- Git & GitHub
+- Environment configuration
+- Containerized application deployment
+
+### Programming & Problem Solving
+- C++
+- Python
+- JavaScript
+- Data Structures & Algorithms
+- Competitive Programming
 
 ---
 
 ## ⚒️ Tech Stack
 
-### 🖥️ Languages
+### Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,python,js,ts,powershell" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,java" />
 </p>
 
-### 🎨 Frontend
+### Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,next,vue,tailwind,bootstrap,html,css" />
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs" />
 </p>
 
-### ⚙️ Backend
+### AI / ML
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flask,fastapi,nodejs,express,dotnet" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
 </p>
 
-### 🗄 Databases
+### Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" />
+  <img src="https://skillicons.dev/icons?i=postgres,redis" />
 </p>
 
-### 🤖 AI / ML
+### DevOps & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
-</p>
-
-### ☁️ DevOps
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,googlecloud,docker,kubernetes,git" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux" />
 </p>
 
 ---
